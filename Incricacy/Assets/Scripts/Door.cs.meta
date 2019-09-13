@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 258c3f9f3ebc1314bb554b173c17300c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {fileID: 21300000, guid: 3be1a38ae3be66b42bfd76031efdead0, type: 3}
+  - Tabl2: {fileID: 6622738465765499352, guid: 477871b58e9aae247860cab8986fac4a, type: 3}
+  - Camera: {instanceID: 0}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 93a222a96ed8e7947b7d838bdf65da3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sn1: {fileID: 4100699199892401401, guid: 639cc7b0119b79b45a32ff684e9c6480, type: 3}
+  - Sn2: {fileID: 5323942709024486576, guid: 6f338b2c1b42ca64a97a1970b6a3ecf9, type: 3}
+  - Sn1_1: {instanceID: 0}
+  - Sn2_1: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - arrovs: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
